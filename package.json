@@ -1,5 +1,5 @@
 {
-  "name": "@fanasygold/bling-sdk",
+  "name": "@fantasygold/bling-sdk",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Bling Finance, forked from @uniswap/sdk.",
@@ -11,7 +11,6 @@
   "repository": "https://github.com/fantasygold/bling-sdk",
   "keywords": [
     "fantasygold",
-    
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
